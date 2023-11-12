@@ -1,5 +1,5 @@
 ## Hi there 👋 
-We are Invise Solutions, a technology company in Orem, Utah. We provide IT services & computer repair solutions. Through our day-to-day business we come up with all sorts of ideas for coding and automating things. You may see many projects here in the coming months. We also believe in transparency, even if we the projects themselves are nothing more than open source code, it creates a fundamental priciple of what and who we are. We have nothing to hide, so we welcome anyone who is interested to investigate our code for themselves.
+We are Invise Solutions, a technology company in Orem, Utah. We provide IT services & computer repair solutions. Through our day-to-day business we come up with all sorts of ideas for coding and automating things. You will be seeing us publish a lot of programs and scripts we use with our clients, we built this initiative upon our belief of **open developement** of the IT community, as well as our belief of the importance of **transparency**. Clarity and transparency are at the forefront of our business approach; one way we have decided to do this is through publishing some of the tools we use on client systems. We have nothing to hide, so we welcome anyone who is interested to investigate our code for themselves.
 
 >**Invise Team Moto:** “Do your best and, forget the rest!” <br/>
 <br/>
@@ -9,6 +9,8 @@ We are Invise Solutions, a technology company in Orem, Utah. We provide IT servi
 <br/>
 
 ## 🖱️🪛‍🖥💻
+
+
 
 <!--
 **Here are some ideas to get you started:**
